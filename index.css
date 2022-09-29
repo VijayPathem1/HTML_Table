@@ -1,0 +1,33 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    margin: 150px;
+}
+    input{
+    font-size: 15px;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+}
+.style{
+    color: red;
+    font-weight:900;
+    font-size: 55px;
+    width:360px;
+    text-align: center;
+}
+d{
+    color:rgb(83, 81, 81);
+}
+.main{
+    color: rgb(3, 193, 177);
+    font-size: 45px;
+    width: 500px;
+    text-align: center;
+}
+#id{
+    text-align: center;
+    font-size: 20px;
+    
+}
